@@ -11,7 +11,7 @@
 
 ##### Example 1.1 Intro
 
-{% highlight scilab %}
+```config
 
 // intro
 
@@ -113,7 +113,7 @@ y2=4*x**2+4*x+10
 %e
 
 
-{% endhighlight %}
+```
 
 ##### Example 1.2 Functions
 
