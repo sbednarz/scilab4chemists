@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: tag
 ---
 
 [Module 1. Scilab Introduction](01/index.md)
