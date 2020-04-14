@@ -1,7 +1,3 @@
----
-layout: tag
----
-
 [Module 1. Scilab Introduction](01/index.md)
 
 [Module 2. Mass Balance](02/index.md)
