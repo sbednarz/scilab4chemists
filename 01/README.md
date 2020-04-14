@@ -10,7 +10,9 @@
 [Example 1.6 fsolve](#example-16-fsolve)
 
 ##### Example 1.1 Intro
-
+```conf
+{% include_relative ./intro.sce %}
+```
 
 ##### Example 1.2 Functions]
 
