@@ -12,6 +12,10 @@
 ##### Example 1.1 Intro
 
 ```config
+{% include_relative ./intro.sce %}
+```
+
+```config
 
 // intro
 
