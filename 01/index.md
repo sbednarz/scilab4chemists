@@ -11,7 +11,7 @@
 
 ##### Example 1.1 Intro
 
-```config
+{% highlight scilab %}
 // intro
 
 // two slashes == comment (not interpreted by Scilab)
@@ -112,7 +112,7 @@ y2=4*x**2+4*x+10
 %e
 
 
-```
+{% endhighlight %}
 
 ##### Example 1.2 Functions
 
