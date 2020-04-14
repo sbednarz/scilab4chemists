@@ -1,4 +1,4 @@
-### Computer Modelling in Chemical Technology: Scilab worked examples
+### [Computer Modelling in Chemical Technology: Scilab worked examples](README.md)
 
 [Module 1. Scilab Introduction](01/README.md)
 
