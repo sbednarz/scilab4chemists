@@ -1,6 +1,6 @@
 ### Computer Modelling in Chemical Technology: Scilab worked examples
 
-```m
+```julia
 {% include_relative 01/fsolve.sce %}
 ```
 
