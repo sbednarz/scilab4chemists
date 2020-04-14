@@ -1,4 +1,4 @@
-### Computer Modelling in Chemical Technology: Scilab worked examples
+### Computer Modelling in Chemical Technology: Scilab worked examples (scilab4chemists)
 
 Homepage for the course.
 
