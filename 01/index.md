@@ -1,4 +1,4 @@
-#### Module 1. Scilab Introduction
+##### Module 1. Scilab Introduction
 
 [Example 1.1 Intro](#example-11-intro) | 
 [Example 1.2 Functions](#example-12-functions) | 
@@ -7,12 +7,11 @@
 [Example 1.5 Loops](#example-15-loops) | 
 [Example 1.6 fsolve](#example-16-fsolve)
 
----
 
 
 ##### Example 1.1 Intro
 
-```scilab
+```config
 // intro
 
 // two slashes == comment (not interpreted by Scilab)
