@@ -12,6 +12,7 @@
 ##### Example 1.1 Intro
 
 {% highlight scilab %}
+
 // intro
 
 // two slashes == comment (not interpreted by Scilab)
