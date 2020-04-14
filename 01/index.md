@@ -7,6 +7,7 @@
 ##### [Example 1.5 Loops](#example-15-loops)
 ##### [Example 1.6 fsolve](#example-16-fsolve)
 
+
 ---
 
 ##### Example 1.1 Intro
@@ -25,11 +26,19 @@
 {% include_relative functions.sce %}
 ```
 
+##### [Top](#module-1-scilab-introduction)
+
+---
+
 ##### Example 1.3 Reporting
 
 ```config
 {% include_relative reporting.sce %}
 ```
+
+##### [Top](#module-1-scilab-introduction)
+
+---
 
 ##### Example 1.4 Ploting
 
@@ -37,11 +46,19 @@
 {% include_relative ploting.sce %}
 ```
 
+##### [Top](#module-1-scilab-introduction)
+
+---
+
 ##### Example 1.5 Loops
 
 ```config
 {% include_relative loops.sce %}
 ```
+
+##### [Top](#module-1-scilab-introduction)
+
+---
 
 
 ##### Example 1.6 fsolve
@@ -49,4 +66,8 @@
 ```config
 {% include_relative fsolve.sce %}
 ```
+
+##### [Top](#module-1-scilab-introduction)
+
+---
 
