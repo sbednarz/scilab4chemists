@@ -1,4 +1,6 @@
+---
 layout: home
+---
 
 [Module 1. Scilab Introduction](01/index.md)
 
