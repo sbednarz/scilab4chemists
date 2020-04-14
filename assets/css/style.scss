@@ -2,3 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
+
+.highlight pre,
+  pre {
+    padding: 0.8rem;
+    overflow: auto;
+    font-size: 0.3rem;
+    line-height: 1.45;
+    border-radius: 0.3rem;
+    -webkit-overflow-scrolling: touch;
+  }
